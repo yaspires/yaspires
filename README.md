@@ -34,7 +34,7 @@
 
 <h2 align="center">✦ About Me ✦</h2>
 
-<img align="right" width="250" src="./apollo.png" alt="Yasmin's orange cat mascot"/>
+<img align="right" width="250" src="./apollo.png" alt="Polinho o gato"/>
 
 <br/>
 <p>
