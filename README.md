@@ -4,66 +4,55 @@
 <!-- ============================================== -->
 
 
+
 <div align="center">
-
-  <h1>✦ Yasmin Pires ✦</h1>
-
-  <h3>Software Development Student</h3>
-
-  <p>
-    Technology · Development · Design
-  </p>
+  <img align="center" src="./Github-banner.png" alt="Welcome banner"/>
 
   <br/>
-
-  <code>WELCOME TO MY GITHUB</code>
-
-  <br/>
+  <hr/>
 
   <a href="https://linkedin.com/in/yasmin-pires-belarmino/">
     <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  <a href="mailto:yasminpbelarmino@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/piress.y">
+    <img src="https://img.shields.io/badge/INSTAGRAM-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <hr/>
+  
 </div>
 
-<br/>
-
-<hr/>
-
-
----
 
 <!-- ============================================== -->
 <!--                  ABOUT ME                      -->
 <!-- ============================================== -->
 
-<h2 align="center">✦ About Me</h2>
+<h2 align="center">✦ About Me ✦</h2>
 
 <img align="right" width="250" src="./apollo.png" alt="Yasmin's orange cat mascot"/>
 
+<br/>
 <p>
-  Olá! Sou estudante de Desenvolvimento de Software
-  Multiplataforma na Fatec Registro.
+  Oi! Sou estudante de Desenvolvimento de Software
+  Multiplataforma na FATEC de Registro. Tenho interesse
+  em desenvolvimento web e também gosto bastante da área
+  de design, especialmente quando posso explorar os dois
+  na criação de interfaces.
 </p>
 
 <p>
-  Tenho interesse em desenvolvimento de sistemas,
-  tecnologia, design de interfaces e organização
-  de processos.
+  Também sou um pouco viciada em organização e estou
+  sempre procurando o melhor jeito de fazer as coisas.
+  E, claro, sou completamente apaixonada pelo meu gato o pollinho.
 </p>
 
-<p>
-  Gosto de entender como as coisas funcionam,
-  transformar necessidades em soluções e explorar
-  diferentes possibilidades através da tecnologia.
-</p>
 
-<p>
-  Atualmente, estou aprimorando minhas habilidades
-  por meio de projetos acadêmicos e pessoais.
-</p>
-
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -75,7 +64,7 @@
 
 <!-- TECHNOLOGIES -->
 
-<h2 align="center">✦ Tech Stack</h2>
+<h2 align="center">✦ Tech Stack ✦</h2>
 
 <p align="center">
   <sub>Technologies I've been working with</sub>
@@ -105,7 +94,7 @@
 <!--                  STATISTICS                    -->
 <!-- ============================================== -->
 
-<h2 align="center">✦ GitHub Statistics</h2>
+<h2 align="center">✦ GitHub Statistics ✦</h2>
 
 <br/>
 
@@ -120,11 +109,3 @@
 <br/>
 
 ---
-
-<div align="center">
-
-  <p>
-    <strong>Thanks for visiting!</strong>
-  </p>
-
-</div>
