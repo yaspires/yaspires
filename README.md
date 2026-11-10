@@ -38,17 +38,16 @@
 
 <br/>
 <p>
-  Oi! Sou estudante de Desenvolvimento de Software
-  Multiplataforma na FATEC de Registro. Tenho interesse
-  em desenvolvimento web e também gosto bastante da área
-  de design, especialmente quando posso explorar os dois
-  na criação de interfaces.
+  Hi! I'm a Software Development student at FATEC Registro in Brazil.
+  I'm interested in web development and also really enjoy
+  design, especially when I can bring both together to
+  create user interfaces.
 </p>
 
 <p>
-  Também sou um pouco viciada em organização e estou
-  sempre procurando o melhor jeito de fazer as coisas.
-  E, claro, sou completamente apaixonada pelo meu gato o pollinho.
+  I'm also a bit of an organization enthusiast and I'm
+  always looking for better ways to get things done.
+  And, of course, I'm completely in love with my cat, Pollinho!
 </p>
 
 
